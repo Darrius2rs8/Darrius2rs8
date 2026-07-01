@@ -1,33 +1,30 @@
-# <a href="https://www.linkedin.com/in/darrius2rs92/">Darrius Davis</a>'s IT and Cybersecurity Project Portfolio 🔐
+# Darrius Davis 🔐
+### IT Help Desk Analyst → Cloud Security Engineer
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Help Desk Analyst with hands-on experience supporting Microsoft enterprise environments (Zendesk, Mimecast, SentinelOne, Active Directory). Currently building practical Azure security projects focused on **Zero Trust, automation, and identity & access management (IAM)** as I transition into cloud security.
+
+**Core interests:** Cloud Security · IAM · Zero Trust Architecture · Security Automation · Azure Administration
+
+---
+
+## 🛠️ Featured Projects
+
+### ⚠️ Vulnerability Management
+- **[Vulnerability Management Program Implementation](https://github.com/Darrius2rs8/Vulnerability-management-program/tree/main)** — End-to-end vulnerability management program design and rollout.
+- **[Programmatic Vulnerability Remediations](https://github.com/Darrius2rs8/programmatic-vulnerability-remediations)** — Automated remediation scripts in PowerShell and Bash.
+
+### 🚨 Threat Hunting & Security Operations
+- **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/Darrius2rs8/Threat-Hunting-Scenario)** — Detection and investigation of Tor usage in an enterprise environment.
+
+### ☁️ Cloud Security & Identity
+- **[Azure Zero Trust Lab](https://github.com/Darrius2rs8/azure-zero-trust-lab)** *(in progress)* — Enterprise Azure lab implementing Zero Trust architecture with Microsoft Entra ID, Conditional Access, MFA, Intune, Defender, and PowerShell automation.
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/darrius2rs92/)
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)](https://github.com/Darrius2rs8)
 
 
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/Darrius2rs8/Vulnerability-management-program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Darrius2rs8/programmatic-vulnerability-remediations)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Darrius2rs8/Threat-Hunting-Scenario)**
-
-<hr/>
-
-## 🤳 Connect With Me
-
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/www.linkedin.com/in/darrius2rs92
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
 
